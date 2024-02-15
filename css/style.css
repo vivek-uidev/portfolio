@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Chivo Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.maintenance-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #222831;
+  color: #EEEEEE;
+}
+
+.page-info {
+  max-width: 497px;
+  margin: auto;
+  text-align: center;
+  padding: 0 15px;
+}
+.page-info h1 {
+  margin-bottom: 1rem;
+}
+.page-info p {
+  line-height: 1.5;
+  color: #cbcbcb;
+}/*# sourceMappingURL=style.css.map */
